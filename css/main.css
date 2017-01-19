@@ -1,16 +1,20 @@
-/*!
- * SNOW Landing Page Theme
- *
- * Created by Visual Soldiers
- * Visit us at http://www.visualsoldiers.com
- *
- * Handcrafted with love in Atlanta!
- */
+/*
+        Content: Pedal Landing Page
+        Type: CSS
+        Author: Madhur Malhotra
+        Author URL: madhur.xyz
+        Date Created: 1/18/17
+        Version: 1.0
+
+        Acknowledgements: Bootstrap
+        Theme Name: Snow
+        Theme URL: http://news.visualsoldiers.com/snow-a-free-bootstrap-landing-page-theme/
+        Author URL: https://colorlib.com/wp/free-bootstrap-landing-pages-templates/
+*/
 
 
-/* ==========================================================================
-   Global styles
-   ========================================================================== */
+
+
 h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, small, #pricing {
   font-family: 'Montserrat', sans-serif;
 }
