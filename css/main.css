@@ -93,7 +93,7 @@ a:hover, a:focus {
 }
 
 ::selection {
-	background: #231f20; /* Safari */
+	background: #27C7BD; /* Safari */
 	color: #FFFFFF;
 }
 ::-moz-selection {
